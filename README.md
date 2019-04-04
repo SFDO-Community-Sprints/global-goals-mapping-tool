@@ -23,15 +23,18 @@ We believe this could be released to the community in 3 phases as described belo
     
    * Crawl
     
-A basic package with custom objects / custom settings / other which allows a customer to install the package into Salesforce - either stand alone or linked to one or more NPSP objects / Standard Salesforce objects (TBD)
+A pilot in which a basic package with custom objects / custom settings / reports & dashboards etc. is created for customers to install in to their individual instances of Salesforce.
     
    * Walk
     
-A managed package on the app exchange which links to the SDG API,  has the facility for individual customers to volunteer to share their data with Salesforce via an online form
+A managed package on the app exchange that has the facility for individual customers to opt-in to sharing their data with Salesforce. 
+
+A heroku back-end to aggregate the data.
     
    * Run
     
-The ability to push all reconciled data towards a central salesforce.org (http://salesforce.org/) system, which allows for reporting on a regional level across all customers.
+An open Einstein Analytics engine on the heroku database that allows .org leadership, our customers, the UN, and other actors to analyse the data for insights.
+
     
 #### Is this a new project, or one carried over from a prior sprint?
     
