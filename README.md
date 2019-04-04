@@ -1,13 +1,11 @@
 
 #### Team Members:
 
-* Who participated in the Project Work? List all people that contribute over the entire Sprint, and be sure to include anyone from Salesforce.org that is helping you with this project.
+* Jonny Elliot, Solution Engineer, Salesforce.org
+* Thijs Bokkers, Partner Solution Engineer, Salesforce.org
+* Marcelle Porteous, Customer Success Manager, Salesforce.org
 
-Jonny Elliot, Solution Engineer, Salesforce.org
-Thijs Bokkers, Partner Solution Engineer, Salesforce.org
-Marcelle Porteous, Customer Success Manager, Salesforce.org
 
-* Who is the Group Leader(s)? 
 No defined group leader at present
 
 #### Project Overview:
