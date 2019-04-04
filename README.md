@@ -48,14 +48,15 @@ No, this is a new project, however we feel this could be included in future spri
 
 #### What have you accomplish during this sprint?
 
-We have defined the project, the phases, and user stories (See below). 
-We made a start on the overall object diagram (Link to the folder here) 
-We made a start on the phased object diagrams (Link to the individual files here) 
+We have defined the project, the phases, and user stories (See below).
 
-* Background and links to our external files: 
+We made a start on the overall architecture:
+* PNG: https://github.com/SFDO-Sprint-2019-Amsterdam/global-goals/blob/master/architecture-spec/SDG%20Architecture%20Diagram%20(1).png
+* Original editable file: https://www.lucidchart.com/invitations/accept/8fbeab89-05ef-4bda-99ba-7aa2145cf846
+
+We have defined an object and field spec for the CRM level of the architecture. 
 
 Quip notes: https://salesforce.quip.com/XPO7AA9jNgml <BR>
-Object Diagram: https://www.lucidchart.com/invitations/accept/8fbeab89-05ef-4bda-99ba-7aa2145cf846
 
 #### What else needs to be done before you can share this project with the Community?
 
