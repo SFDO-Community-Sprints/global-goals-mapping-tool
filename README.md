@@ -8,13 +8,7 @@
 
 #### Project Overview:
 
-* Global Goals Tracking
-https://sustainabledevelopment.un.org/?menu=1300
-
-* Dream Solution which sparked this project
-
 * Project Summary
-    * What is the project?
     
 To provide a mechanism through which our customers can provide progress towards the 17 UN Global Goals, whereby Salesforce can aggregate data to show the impact of customers.
     
@@ -57,6 +51,9 @@ We made a start on the overall architecture:
 We have defined an object and field spec for the CRM level of the architecture. 
 
 Quip notes: https://salesforce.quip.com/XPO7AA9jNgml <BR>
+   
+Global Goals Tracking: https://sustainabledevelopment.un.org/?menu=1300
+
 
 #### What else needs to be done before you can share this project with the Community?
 
