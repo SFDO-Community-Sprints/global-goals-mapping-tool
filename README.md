@@ -1,5 +1,3 @@
-HELLO
-Marcelle
 
 #### Team Members:
 
@@ -10,7 +8,7 @@ Thijs Bokkers, Partner Solution Engineer, Salesforce.org
 Marcelle Porteous, Customer Success Manager, Salesforce.org
 
 * Who is the Group Leader(s)? 
-
+No defined group leader at present
 
 #### Project Overview:
 
@@ -21,13 +19,28 @@ Marcelle Porteous, Customer Success Manager, Salesforce.org
     * What is the project?
     * What impact will this have on the Community?
     * How could this project be distributed into the Community? ie, private blog, new How-To Guide, a new or updated existing HUB Article, new Open Source App or Component, etc.
+    
+    * Crawl
+    
+    A basic package with custom objects / custom settings / other which allows a customer to install the package into Salesforce - either stand alone or linked to one or more NPSP objects / Standard Salesforce objects (TBD)
+    
+    * Walk
+    
+    A managed package on the app exchange which links to the SDG API,  has the facility for individual customers to volunteer to share their data with Salesforce via an online form
+    
+    * Run
+    
+    The ability to push all reconciled data towards a central salesforce.org (http://salesforce.org/) system, which allows for reporting on a regional level across all customers.
+    
     * Is this a new project, or one carried over from a prior sprint?
-        * If a prior sprint, which one?
-        * Include any links to past Google Folders or resources if applicable.
+    
+    No, this is a new project, however we feel this could be included in future sprints for further development. 
+
 
 #### What have you accomplish during this sprint?
 
-* Include links to Docs/Code if applicable
+* Quip notes: https://salesforce.quip.com/XPO7AA9jNgml
+* Object Diagram: https://www.lucidchart.com/invitations/accept/8fbeab89-05ef-4bda-99ba-7aa2145cf846
 
 #### What else needs to be done before you can share this project with the Community?
 
