@@ -10,12 +10,21 @@
 
 * Global Goals Tracking
 https://sustainabledevelopment.un.org/?menu=1300
-* To provide a mechanism through which our customers can provide progress towards the 17 UN Global Goals, whereby Salesforce can aggregate data to show the impact of customers.
+
 * Dream Solution which sparked this project
+
 * Project Summary
     * What is the project?
+    
+To provide a mechanism through which our customers can provide progress towards the 17 UN Global Goals, whereby Salesforce can aggregate data to show the impact of customers.
+    
     * What impact will this have on the Community?
-    * How could this project be distributed into the Community? ie, private blog, new How-To Guide, a new or updated existing HUB Article, new Open Source App or Component, etc.
+    
+(TBC)
+    
+    * How could this project be distributed into the Community? 
+    
+We believe this could be released to the community in 3 phases as described below. 
     
     * Crawl
     
@@ -36,8 +45,14 @@ https://sustainabledevelopment.un.org/?menu=1300
 
 #### What have you accomplish during this sprint?
 
-* Quip notes: https://salesforce.quip.com/XPO7AA9jNgml
-* Object Diagram: https://www.lucidchart.com/invitations/accept/8fbeab89-05ef-4bda-99ba-7aa2145cf846
+We have defined the project, the phases, and user stories (See below). 
+We made a start on the overall object diagram (Link to the folder here) 
+We made a start on the phased object diagrams (Link to the individual files here) 
+
+* Background and links to our external files: 
+
+Quip notes: https://salesforce.quip.com/XPO7AA9jNgml
+Object Diagram: https://www.lucidchart.com/invitations/accept/8fbeab89-05ef-4bda-99ba-7aa2145cf846
 
 #### What else needs to be done before you can share this project with the Community?
 
