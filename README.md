@@ -18,29 +18,29 @@ https://sustainabledevelopment.un.org/?menu=1300
     
 To provide a mechanism through which our customers can provide progress towards the 17 UN Global Goals, whereby Salesforce can aggregate data to show the impact of customers.
     
-    * What impact will this have on the Community?
+#### What impact will this have on the Community?
     
 (TBC)
     
-    * How could this project be distributed into the Community? 
+#### How could this project be distributed into the Community? 
     
 We believe this could be released to the community in 3 phases as described below. 
     
-    * Crawl
+   * Crawl
     
-    A basic package with custom objects / custom settings / other which allows a customer to install the package into Salesforce - either stand alone or linked to one or more NPSP objects / Standard Salesforce objects (TBD)
+A basic package with custom objects / custom settings / other which allows a customer to install the package into Salesforce - either stand alone or linked to one or more NPSP objects / Standard Salesforce objects (TBD)
     
-    * Walk
+   * Walk
     
-    A managed package on the app exchange which links to the SDG API,  has the facility for individual customers to volunteer to share their data with Salesforce via an online form
+A managed package on the app exchange which links to the SDG API,  has the facility for individual customers to volunteer to share their data with Salesforce via an online form
     
-    * Run
+   * Run
     
-    The ability to push all reconciled data towards a central salesforce.org (http://salesforce.org/) system, which allows for reporting on a regional level across all customers.
+The ability to push all reconciled data towards a central salesforce.org (http://salesforce.org/) system, which allows for reporting on a regional level across all customers.
     
-    * Is this a new project, or one carried over from a prior sprint?
+#### Is this a new project, or one carried over from a prior sprint?
     
-    No, this is a new project, however we feel this could be included in future sprints for further development. 
+No, this is a new project, however we feel this could be included in future sprints for further development. 
 
 
 #### What have you accomplish during this sprint?
