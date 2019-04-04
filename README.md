@@ -20,7 +20,10 @@ To provide a mechanism through which our customers can provide progress towards 
     
 #### What impact will this have on the Community?
     
-(TBC)
+It will allow for non-profits to easily report on the progress they are making towards their mission, and tie this to the SDGs. <BR>
+It will allow for Salesforce.org to measure how our whole ohana is progressing with the SDGs. <BR>
+It will allow for the UN to see what the impact is of the Salesforce Ohana towards their overal SDGs. <BR>
+It will allow for corporate organisations to connect their CSR strategy towards the SDGs and measure upon them.
     
 #### How could this project be distributed into the Community? 
     
