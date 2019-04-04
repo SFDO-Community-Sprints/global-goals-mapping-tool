@@ -8,8 +8,6 @@
 
 #### Project Overview:
 
-* Project Summary
-    
 To provide a mechanism through which our customers can provide progress towards the 17 UN Global Goals, whereby Salesforce can aggregate data to show the impact of customers.
     
 #### What impact will this have on the Community?
