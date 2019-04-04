@@ -3,10 +3,8 @@
 
 * Jonny Elliot, Solution Engineer, Salesforce.org
 * Thijs Bokkers, Partner Solution Engineer, Salesforce.org
-* Marcelle Porteous, Customer Success Manager, Salesforce.org
+* <b>Marcelle Porteous</b>, Customer Success Manager, Salesforce.org
 
-
-No defined group leader at present
 
 #### Project Overview:
 
