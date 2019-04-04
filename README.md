@@ -51,7 +51,7 @@ We made a start on the phased object diagrams (Link to the individual files here
 
 * Background and links to our external files: 
 
-Quip notes: https://salesforce.quip.com/XPO7AA9jNgml
+Quip notes: https://salesforce.quip.com/XPO7AA9jNgml <BR>
 Object Diagram: https://www.lucidchart.com/invitations/accept/8fbeab89-05ef-4bda-99ba-7aa2145cf846
 
 #### What else needs to be done before you can share this project with the Community?
